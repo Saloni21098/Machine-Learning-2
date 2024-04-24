@@ -7,10 +7,10 @@ The model aims to improve the current strategy used by the real estate company, 
 #### Model Selection
 Since we have features and labels (husing.data), supervised learning model must be used. As we need to find the house price, which is a value, we will use a regression algorithm.
 
-### Performance Measure
+#### Performance Measure
 The Root Mean Square Error (RMSE) is the chosen performance measure for this particular problem.
 
-### Coding
+#### Coding
 The code for the ML model is written in a Jupyter notebook, making it easy to document and use the code as a notebook. 
 The Jupyter Notebook is an open-source web application that allows us to create and share documents that contain live code, equations, visualizations and narrative text.
 
